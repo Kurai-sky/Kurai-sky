@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Piyush Jaiswal</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **Data Bases / Python /Data Cleaning**
+- 💫 I’m currently learning **Data Bases / Python /Data Cleaning**
 
-- 👯 I’m looking to collaborate on **Big Data**
+- 💫 I’m looking to collaborate on **Big Data**
 
-- 🤝 I’m looking for help with **Meta**
+- 💫 I’m looking for help with **Meta**
 
-- 📫 How to reach me **Piyushjaiswal27145@gmail.com**
+- 💫 How to reach me **Piyushjaiswal27145@gmail.com**
 
-- ⚡ Fun fact **I Think I'm so persistence**
+- 💫 Fun fact **I Think I'm so persistence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
